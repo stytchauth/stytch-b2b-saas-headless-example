@@ -531,40 +531,6 @@ export const Login = () => {
 			</div>
 		</>
 	);
-
-	// return (
-	// 	<>
-	// 		<Header heading="Sign Up or Log In" />
-
-	// 		<div className={styles.loginSection}>
-	// 			{message ? <div>{message}</div> : null}
-
-	// 			<form
-	// 				onSubmit={(e) => {
-	// 					e.preventDefault();
-
-	// 					const data = new FormData(e.currentTarget);
-	// 					const email_address = data.get('email_address') as string;
-
-	// 					if (!email_address) {
-	// 						setMessage('Please provide an email address.');
-	// 						return;
-	// 					}
-
-	// 					startEmailDiscovery.mutate({ email_address });
-	// 				}}
-	// 			>
-	// 				<label htmlFor="email">Email</label>
-	// 				<input type="email" name="email_address" id="email" required />
-
-	// 				<button type="submit">Sign Up / Log In</button>
-	// 			</form>
-
-	// 			<a href={googleOauth.toString()}>Log in with Google</a>
-	// 			<a href={microsoftOauth.toString()}>Log in with Microsoft</a>
-	// 		</div>
-	// 	</>
-	// );
 };
 
 export const SelectTeam = () => {
