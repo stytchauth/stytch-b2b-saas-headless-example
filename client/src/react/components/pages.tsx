@@ -527,8 +527,6 @@ export const Login = () => {
 					<Button type="email">
 					Continue with Email
 					</Button>
-
-					<div className={styles.poweredBy}>Powered by STYTCH</div>
 				</form>
 			</div>
 		</>
