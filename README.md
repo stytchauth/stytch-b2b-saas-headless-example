@@ -45,7 +45,7 @@ To handle business logic that requires secret credentials, Node + Express is one
 For local development, you'll need:
 
 - A Stytch account: https://stytch.com/
-- Node >= 20.6.0
+- Node >= 20.6.0 (Node 22x is not supported at this time)
 
 ### Clone the project
 
