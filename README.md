@@ -13,7 +13,8 @@
 
 This demo app is focused on demonstrating the power and flexibility of [Stytch](stytch) in [B2B Authentication](https://stytch.com/b2b) scenarios from a **backend-focused** approach, leveraging [Stytch Frontend SDKs](https://stytch.com/docs/b2b/guides/implementation/frontend-headless) and direct calls to the [Stytch Backend API](https://stytch.com/docs/b2b/guides/implementation/backend) to build custom functionality for frontend and backend.
 
-## 👀 Looking for an example of [Stytch B2B Pre-Built UI components][stytch-prebuilt-ui]?  We have an example [here][b2b-prebuilt-ui-gh]. 👀
+## 👀 Looking for an example of [Stytch B2B Pre-Built UI components][stytch-prebuilt-ui]? 👀
+### See [stytchauth/stytch-b2b-saas-pre-built-ui-example][b2b-prebuilt-ui-gh]
 
 
 ## Features
