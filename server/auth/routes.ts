@@ -4,6 +4,7 @@ import type {
   B2BMagicLinksDiscoveryAuthenticateResponse,
   B2BOAuthDiscoveryAuthenticateResponse,
 } from "stytch";
+import { addUser } from "../db/index.js";
 import {
   cookieOptions,
   exchangeIntermediateToken,
@@ -203,6 +204,9 @@ auth.post("/register", async (req, res) => {
 
   const organization_id = result.organization?.organization_id;
   const member_id = result.member.member_id;
+
+  // Create member in the database
+  await addUser({ id: result.member.member_id, name: result.member.name });
 
   if (result.status_code !== 200 || typeof organization_id !== "string") {
     throw new Error("Unable to create organization");
