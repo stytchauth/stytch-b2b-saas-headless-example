@@ -1,5 +1,15 @@
 # Stytch B2B App Demo - Headless
 
+<p align="center">
+  <img alt="Stytch B2B SaaS App - Headless" src="./doc/Stytch-B2B-app-headless.png" />
+</p>
+
+> 💬 **Note from maintainers**
+>
+> This application is purely for demonstration and educational purposes. Its setup and configuration resemble typical real-world applications, but it's not a full-fledged production system. Use this app to learn, experiment and tinker with [Stytch][stytch].
+>
+> Happy Coding!
+
 This demo app is focused on demonstrating the power and flexibility of [Stytch](stytch) in [B2B Authentication](https://stytch.com/b2b) scenarios from a **backend-focused** approach, leveraging [Stytch Frontend SDKs](https://stytch.com/docs/b2b/guides/implementation/frontend-headless) and direct calls to the [Stytch Backend API](https://stytch.com/docs/b2b/guides/implementation/backend) to build custom functionality for frontend and backend.
 
 ## Features
