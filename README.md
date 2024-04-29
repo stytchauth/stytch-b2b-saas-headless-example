@@ -1,4 +1,4 @@
-# Stytch B2B App Demo - Headless
+# Stytch B2B App example - Headless
 
 <p align="center">
   <img alt="Stytch B2B SaaS App - Headless" src="./doc/Stytch-B2B-app-headless.png" />
@@ -11,7 +11,7 @@
 > Happy Coding!
 
 
-This demo app is focused on demonstrating the power and flexibility of [Stytch](stytch) in [B2B Authentication](https://stytch.com/b2b) scenarios from a **backend-focused** approach, leveraging [Stytch Frontend SDKs](https://stytch.com/docs/b2b/guides/implementation/frontend-headless) and direct calls to the [Stytch Backend API](https://stytch.com/docs/b2b/guides/implementation/backend) to build custom functionality for frontend and backend.
+This example app is focused on demonstrating the power and flexibility of [Stytch](stytch) in [B2B Authentication](https://stytch.com/b2b) scenarios from a **backend-focused** approach, leveraging [Stytch Frontend SDKs](https://stytch.com/docs/b2b/guides/implementation/frontend-headless) and direct calls to the [Stytch Backend API](https://stytch.com/docs/b2b/guides/implementation/backend) to build custom functionality for frontend and backend.
 
 ## 👀 Looking for an example of [Stytch B2B Pre-Built UI components][stytch-prebuilt-ui]? 👀
 ### See [stytchauth/stytch-b2b-saas-pre-built-ui-example][b2b-prebuilt-ui-gh]
@@ -25,7 +25,7 @@ This demo app is focused on demonstrating the power and flexibility of [Stytch](
 - Supports multiple authentication methods ([Email Magic Link (EML)](https://stytch.com/docs/b2b/guides/magic-links/overview) and [OAuth](https://stytch.com/docs/b2b/guides/oauth/overview) implemented)
 
 
-The auth-specific logic is well documented, including links to the underlying API calls being used, and the demo code kept simple and separate for easy review and subsequent deletion.
+The auth-specific logic is well documented, including links to the underlying API calls being used, and the example code kept simple and separate for easy review and subsequent deletion.
 
 ## Project Structure
 
