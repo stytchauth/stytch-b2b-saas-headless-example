@@ -24,7 +24,7 @@
     "drizzle-orm": "^0.30.9",
     "express": "^4.19.2",
     "prettier": "^3.2.5",
-    "stytch": "^10.15.1"
+    "stytch": "^11.4.2"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.10",
