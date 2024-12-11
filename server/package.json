@@ -22,7 +22,7 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "drizzle-orm": "^0.30.9",
-    "express": "^4.21.0",
+    "express": "^4.21.2",
     "prettier": "^3.2.5",
     "stytch": "^11.4.2"
   },
