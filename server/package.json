@@ -17,7 +17,7 @@
   "author": "Jason Lengstorf <jason@learnwithjason.dev>",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^9.5.0",
+    "better-sqlite3": "^9.6.0",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
